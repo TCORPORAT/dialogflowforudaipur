@@ -1,0 +1,33 @@
+[
+  {
+    "id": "001e0dc0-0a51-4dd9-b3f1-920b8cda4e1b",
+    "data": [
+      {
+        "text": "badi",
+        "alias": "lakes",
+        "meta": "@lakes",
+        "userDefined": true
+      },
+      {
+        "text": " lake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1512236183
+  },
+  {
+    "id": "36fe16b0-e508-41cc-a995-07517b48c137",
+    "data": [
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512236183
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "753f8a88-0986-43d0-8a50-d1625ebf15ed",
+    "data": [
+      {
+        "text": "Hariom",
+        "alias": "chatconv",
+        "meta": "@chatconv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10417343-8bba-43a8-af94-f1a3a8e1a67d",
+    "data": [
+      {
+        "text": "Namaskar",
+        "alias": "chatconv",
+        "meta": "@chatconv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7100ebd5-d832-43dd-a3f1-88f115cd41e2",
+    "data": [
+      {
+        "text": "Namaste",
+        "alias": "chatconv",
+        "meta": "@chatconv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

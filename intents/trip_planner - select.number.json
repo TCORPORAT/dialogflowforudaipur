@@ -1,0 +1,47 @@
+{
+  "id": "75dcb800-2bbe-4d4b-b70b-0f7dd8ee84b8",
+  "parentId": "1fcf1c37-d179-4ff1-bb6b-98ecd6a776da",
+  "rootParentId": "1fcf1c37-d179-4ff1-bb6b-98ecd6a776da",
+  "name": "trip_planner - select.number",
+  "auto": true,
+  "contexts": [
+    "trip_planner-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "trip_planner.trip_planner-selectnumber",
+      "affectedContexts": [
+        {
+          "name": "trip_planner-selectnumber-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c5983cda-9e28-480c-a0fb-48b5de270955",
+          "dataType": "@choose_city",
+          "name": "choose_city",
+          "value": "$choose_city",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1491124304,
+  "fallbackIntent": false,
+  "events": []
+}

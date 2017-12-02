@@ -1,0 +1,36 @@
+{
+  "id": "1280023e-27f2-4883-bc44-99665bd1af43",
+  "name": "4 Badi Lake",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4be42031-6684-42de-a5c6-c8394a1d0af1",
+          "dataType": "@lakes",
+          "name": "lakes",
+          "value": "$lakes",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Badi Lake: situated in Udaipur city in the Indian state of Rajasthan, is an artificial fresh water lake. The lake was built in the village of Badi, about 12 km from the city of Udaipur, by Maharana Raj Singh I (1652-1680) to counteract the devastating effects of a famine. He named it Jiyan Sagar after his mother Jana Devi.                                                                          \nFor more visit: https://myudaipurcity.com/badi-lake-udaipur/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512236183,
+  "fallbackIntent": false,
+  "events": []
+}

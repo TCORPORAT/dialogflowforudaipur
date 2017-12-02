@@ -1,0 +1,44 @@
+{
+  "id": "02a66fe0-e24e-4182-b1a4-165a85e7da27",
+  "name": "1FatehSagar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c569c1f2-8d04-4def-b0fa-b2fd09b32950",
+          "required": false,
+          "dataType": "@one",
+          "name": "one",
+          "value": "$one",
+          "isList": false
+        },
+        {
+          "id": "269efaea-88cc-45cd-9dfb-8e75bb058c87",
+          "dataType": "@lakes",
+          "name": "lakes",
+          "value": "$lakes",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Fatehsagar: Built in 1678 by Maharana Jai Singh, Fateh Sagar Lake got its name from Maharana Fateh Singh, who later made additions to it. To know more visit: www.udaipur.org.uk/lakes/pichola-lake.html"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512224750,
+  "fallbackIntent": false,
+  "events": []
+}

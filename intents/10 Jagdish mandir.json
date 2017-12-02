@@ -1,0 +1,28 @@
+{
+  "id": "b27a6716-3c59-44e0-86fb-45a11acec29e",
+  "name": "10 Jagdish mandir",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Jagdish Mandir: also Jagdish Temple is a large Hindu temple in the middle of Udaipur, just outside the royal palace. It has been in continuous worship since 1651.                                  For more info: www.udaipur.org.uk/temples/jagdish-temple.html"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512237547,
+  "fallbackIntent": false,
+  "events": []
+}

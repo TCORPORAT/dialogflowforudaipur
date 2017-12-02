@@ -1,0 +1,38 @@
+[
+  {
+    "value": "Hello",
+    "synonyms": [
+      "Hello"
+    ]
+  },
+  {
+    "value": "Hi",
+    "synonyms": [
+      "Hi"
+    ]
+  },
+  {
+    "value": "namaskar",
+    "synonyms": [
+      "namaskar"
+    ]
+  },
+  {
+    "value": "Namaste",
+    "synonyms": [
+      "Namaste"
+    ]
+  },
+  {
+    "value": "Hariom",
+    "synonyms": [
+      "Hariom"
+    ]
+  },
+  {
+    "value": "Hey",
+    "synonyms": [
+      "Hey"
+    ]
+  }
+]

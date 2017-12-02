@@ -1,0 +1,28 @@
+{
+  "id": "41c06520-7600-401d-9c2d-761790c34229",
+  "name": "9 Sahelio ki Bari",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sahelio Ki Baari: It is a major garden and a popular tourist space in Udaipur in Indian state of Rajasthan. It lies in northern part of the city and has fountains and kiosks, a lotus pool and marble elephants. It was built by Rana sangram Singh."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512237321,
+  "fallbackIntent": false,
+  "events": []
+}

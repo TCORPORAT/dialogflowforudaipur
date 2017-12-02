@@ -1,0 +1,27 @@
+[
+  {
+    "id": "754795ef-809c-428d-a364-7f3c2779343c",
+    "data": [
+      {
+        "text": "city palace",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512233087
+  },
+  {
+    "id": "32291e71-aed2-43c0-a558-b140f70e4cb7",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512233087
+  }
+]

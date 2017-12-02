@@ -1,0 +1,77 @@
+[
+  {
+    "id": "67927227-244e-4493-93ba-199bed4527e5",
+    "data": [
+      {
+        "text": "what can you show me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "59c9b1e3-215d-4944-a90b-46f7dec5efbe",
+    "data": [
+      {
+        "text": "query",
+        "alias": "HelpQueries",
+        "meta": "@HelpQueries",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "alias": "HelpQueries",
+        "meta": "@HelpQueries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1491127083
+  },
+  {
+    "id": "b22997b1-04d6-4a3d-81a3-cf427c1a15ef",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "don\u0027t",
+        "alias": "HelpQueries",
+        "meta": "@HelpQueries",
+        "userDefined": true
+      },
+      {
+        "text": " know that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1491072675
+  },
+  {
+    "id": "b5d74443-4a82-4af4-9950-732261ebd924",
+    "data": [
+      {
+        "text": "help",
+        "alias": "HelpQueries",
+        "meta": "@HelpQueries",
+        "userDefined": true
+      },
+      {
+        "text": " me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1491072675
+  }
+]

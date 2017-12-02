@@ -1,0 +1,28 @@
+{
+  "id": "cddd9e0b-0e60-42ac-82f0-c29e08dc8350",
+  "name": "6 Gulabh Bagh",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Gulab Bagh: It is the largest garden in Udaipur. It is spread over 100 acres of land. The garden has innumerable varieties of roses. Gulab Bagh gets its name from the abundance of rose flowers it has.                                                                                                                                        \nFor more info: http://www.udaipur.org.uk/gardens/gulab-bagh.html"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512236566,
+  "fallbackIntent": false,
+  "events": []
+}

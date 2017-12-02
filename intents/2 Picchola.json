@@ -1,0 +1,37 @@
+{
+  "id": "ec3e4e0c-ea9c-4824-a517-8717e2d9493c",
+  "name": "2 Picchola",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "163951ed-a4e4-41e2-9101-8729ac83efa7",
+          "required": false,
+          "dataType": "@lakes",
+          "name": "lakes",
+          "value": "$lakes",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Picchola lake:Lake Pichola, situated in Udaipur city in the Indian state of Rajasthan, is an artificial fresh water lake, created in the year 1362 AD, named after the nearby Picholi village. For more visit: www.udaipur.org.uk/lakes/pichola-lake.html"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512232800,
+  "fallbackIntent": false,
+  "events": []
+}

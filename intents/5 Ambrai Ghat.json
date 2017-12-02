@@ -1,0 +1,28 @@
+{
+  "id": "13adf361-ebce-408c-a06a-bcec3e5a7260",
+  "name": "5 Ambrai Ghat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ambrai Ghat: or Manjhi Ghat is a main ghat situated near the waterfront of Lake Pichola in Udaipur. It is situated opposite to the Gangaur Ghat, near the Jagdish Chowk area.                        For more info: m.udaipuronline.in/City-Guide/Ambrai-Ghat-Udaipur"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512236353,
+  "fallbackIntent": false,
+  "events": []
+}

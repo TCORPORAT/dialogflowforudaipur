@@ -1,0 +1,40 @@
+{
+  "description": "I\u0027m Ubott, your personal assistant!",
+  "language": "en",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on",
+    "smalltalk-fulfillment-on"
+  ],
+  "disableInteractionLogs": false,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "920c98ab-b89e-4736-a61f-36964d28c577",
+        "signInRequired": true
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V1"
+  },
+  "defaultTimezone": "Asia/Kolkata",
+  "webhook": {
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": false,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.2,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": false
+}

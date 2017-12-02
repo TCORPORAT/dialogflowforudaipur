@@ -1,0 +1,26 @@
+[
+  {
+    "id": "608be9a6-3429-4f54-b4f0-431deb950622",
+    "data": [
+      {
+        "text": "mosques",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1512240380
+  },
+  {
+    "id": "0b645b6c-20bb-4f4a-9d5d-8c5658bdd434",
+    "data": [
+      {
+        "text": "mosques in the city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512240380
+  }
+]

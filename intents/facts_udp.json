@@ -1,0 +1,41 @@
+{
+  "id": "24b50ef8-0e38-4317-ba5d-9fe5e51f05ec",
+  "name": "facts_udp",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "20c1f0d4-9e92-4f1c-96b2-7421c7358f8c",
+          "dataType": "@facts",
+          "name": "facts",
+          "value": "$facts",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Intersting Fact: Udaipur was founded in 1559, same as the one  Queen of England and Ireland\nElizabeth  the 1st  was crowned.",
+            "Intersting Fact: Maharaja Udai Singh of Sisodia dynasty founded the Udaipur city.",
+            "Intersting Fact:"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512222396,
+  "fallbackIntent": false,
+  "events": []
+}

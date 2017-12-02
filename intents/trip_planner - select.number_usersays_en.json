@@ -1,0 +1,152 @@
+[
+  {
+    "id": "f8b6f678-72c3-4d04-9cb1-713d76c40ed7",
+    "data": [
+      {
+        "text": "3",
+        "alias": "choose_city",
+        "meta": "@choose_city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1491123978
+  },
+  {
+    "id": "472ad777-2cc3-42a7-9207-38ef77c0dc88",
+    "data": [
+      {
+        "text": "3.",
+        "alias": "choose_city",
+        "meta": "@choose_city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1491123978
+  },
+  {
+    "id": "d49a8140-ce3a-48b4-8efb-4f4214fd24aa",
+    "data": [
+      {
+        "text": "1.",
+        "alias": "choose_city",
+        "meta": "@choose_city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1491123978
+  },
+  {
+    "id": "24bedb9e-955b-452d-8018-e41157b4f19c",
+    "data": [
+      {
+        "text": "2",
+        "alias": "choose_city",
+        "meta": "@choose_city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1491123699
+  },
+  {
+    "id": "d7fdb36d-3efa-41bf-966b-4850c80828ac",
+    "data": [
+      {
+        "text": "1",
+        "alias": "choose_city",
+        "meta": "@choose_city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1491123699
+  },
+  {
+    "id": "2f5320e0-e523-41c4-adaf-4b7f6b7f91d3",
+    "data": [
+      {
+        "text": "second",
+        "alias": "choose_city",
+        "meta": "@choose_city",
+        "userDefined": false
+      },
+      {
+        "text": " one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1491123699
+  },
+  {
+    "id": "e5d129e6-1e1b-4a09-869e-61b9d76e787b",
+    "data": [
+      {
+        "text": "I choose number ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "choose_city",
+        "meta": "@choose_city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1491123699
+  },
+  {
+    "id": "23e8b48b-eede-432e-b628-12edf05a4708",
+    "data": [
+      {
+        "text": "select the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "alias": "choose_city",
+        "meta": "@choose_city",
+        "userDefined": false
+      },
+      {
+        "text": " one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1491123699
+  },
+  {
+    "id": "16e4a512-2246-44ea-9718-687c9613845d",
+    "data": [
+      {
+        "text": "show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "second",
+        "alias": "choose_city",
+        "meta": "@choose_city",
+        "userDefined": false
+      },
+      {
+        "text": " one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1491123699
+  }
+]

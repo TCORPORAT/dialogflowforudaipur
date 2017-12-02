@@ -1,0 +1,42 @@
+{
+  "id": "920c98ab-b89e-4736-a61f-36964d28c577",
+  "name": "Help intents",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2b09bbd8-d534-4575-ae39-b8a9e5a7f5da",
+          "required": true,
+          "dataType": "@HelpQueries",
+          "name": "HelpQueries",
+          "value": "$HelpQueries",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The following functions can be used independently: To know about nearby places type \"places nearby\" and to know interesting facts type \"facts \" ;"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1491127083,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "help"
+    }
+  ]
+}

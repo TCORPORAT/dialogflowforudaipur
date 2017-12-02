@@ -1,0 +1,37 @@
+{
+  "id": "1fcf1c37-d179-4ff1-bb6b-98ecd6a776da",
+  "name": "places_nearby",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6c3eb633-a8a7-4226-8765-3b8ccdd8c88b",
+          "required": false,
+          "dataType": "@Fam_place",
+          "name": "Fam_place",
+          "value": "$Fam_place",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Select from the following: 1. FatehSagar Lake | |  2. Picchola Lake  | | 3.City Palace | | 4. Badi Lake | | 5. Ambrai Ghat | | 6. Gulab Bagh | | 7. Jagdish Mandir  | | 8. Baghore ki Haveli | | 9. Sahelio Ki Bari  | | 10. Moti magri"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1491124037,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "e8ffb4e5-70df-47dd-94c5-4f263858ccd2",
+  "name": "7 jagdish mandir",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Jagdish Temple: It is a large Hindu temple in the middle of Udaipur in Rajasthan, just outside the royal palace. It has been in continuous worship since 1651. A big tourist attraction, the temple was originally called the temple of Jagannath Rai but is now called Jagdish-ji. It is a major monument in Udaipur.                                                                                                              For more info: www.udaipur.org.uk/temples/jagdish-temple.html"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512236744,
+  "fallbackIntent": false,
+  "events": []
+}

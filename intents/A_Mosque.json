@@ -1,0 +1,28 @@
+{
+  "id": "c32bd2ff-703f-48ec-9be2-1cc288b36dac",
+  "name": "A_Mosque",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Some of the popullar mosques : Muayyadpura, Madina, Bohra, Choti, Badi, Paltan Masjid(eng - Masjid-\u003eMosque) etc. are some of them. To know about temples and churches, just ask them. For more info : http://bit.ly/2zYU19m"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512240380,
+  "fallbackIntent": false,
+  "events": []
+}

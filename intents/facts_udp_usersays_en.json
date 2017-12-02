@@ -1,0 +1,64 @@
+[
+  {
+    "id": "62291ace-15d7-4ffe-8eb3-a2f8f42da2e8",
+    "data": [
+      {
+        "text": "some ",
+        "userDefined": false
+      },
+      {
+        "text": "info",
+        "alias": "facts",
+        "meta": "@facts",
+        "userDefined": true
+      },
+      {
+        "text": " regarding the city.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1512222396
+  },
+  {
+    "id": "e6efa2f9-7545-40a0-9eef-91bace326e49",
+    "data": [
+      {
+        "text": "facts",
+        "alias": "facts",
+        "meta": "@facts",
+        "userDefined": true
+      },
+      {
+        "text": " please!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512222396
+  },
+  {
+    "id": "f31eb8e0-af85-4bc3-b7be-ae8814fa4036",
+    "data": [
+      {
+        "text": "can you tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "facts",
+        "alias": "facts",
+        "meta": "@facts",
+        "userDefined": true
+      },
+      {
+        "text": " about udaipur?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512222396
+  }
+]

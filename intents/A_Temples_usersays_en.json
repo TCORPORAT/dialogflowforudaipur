@@ -1,0 +1,20 @@
+[
+  {
+    "id": "da2fb40d-6ac7-4ebc-bf98-21379872af4f",
+    "data": [
+      {
+        "text": "temples",
+        "alias": "u_temples",
+        "meta": "@u_temples",
+        "userDefined": false
+      },
+      {
+        "text": " in the city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512239046
+  }
+]

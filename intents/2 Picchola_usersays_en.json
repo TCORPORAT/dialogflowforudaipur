@@ -1,0 +1,47 @@
+[
+  {
+    "id": "e1c9312d-cd7c-4b8e-b959-1fd87c59b1a1",
+    "data": [
+      {
+        "text": "pichola",
+        "alias": "lakes",
+        "meta": "@lakes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512232800
+  },
+  {
+    "id": "f241f569-cbf4-46d1-a115-6e44d5f546bc",
+    "data": [
+      {
+        "text": "Picchola",
+        "alias": "lakes",
+        "meta": "@lakes",
+        "userDefined": true
+      },
+      {
+        "text": " lake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512232800
+  },
+  {
+    "id": "078f8b34-eca2-4aa9-a1a2-3220d2730b6e",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512232800
+  }
+]

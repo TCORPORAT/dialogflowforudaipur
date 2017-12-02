@@ -1,0 +1,37 @@
+{
+  "id": "6f1e3908-d92c-4197-a2a1-f0dba1c9e36f",
+  "name": "A_Temples",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0d15c36e-e7a5-4004-8fc4-0373a8c3dd57",
+          "required": false,
+          "dataType": "@u_temples",
+          "name": "u_temples",
+          "value": "$u_temples",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are multi-religion temples across the city, some of the famous ones are:  Jagdish ,  Karni Mata, Bohra Ganeshji, Ambamata, Neemach Mata, Eklingji, Mahakaleshwar Temples are some of them. For mosques, search \"mosques\" and For more info: http://bit.ly/2zYU19m"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512239046,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "fa5b20cc-b57e-40d6-aa31-fa1e8d1b1298",
+  "name": "3 City Palace",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "City Palace: City Palace, Udaipur, was built over a period of nearly 400 years, with contributions from several rulers of the Mewar dynasty. For more info visit: www.udaipur.org.uk/tourist-attractions/citypalace.html"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512233087,
+  "fallbackIntent": false,
+  "events": []
+}

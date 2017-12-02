@@ -1,0 +1,28 @@
+{
+  "id": "3243d3da-b470-4452-a769-2d05ed936b81",
+  "name": "8 Baghore ki haveli",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Baghore ki haveli: It is a haveli in Udaipur in Rajasthan state in India. It is right on the waterfront of Lake Pichola at Gangori Ghat. Amir Chand Badwa, the Prime Minister of Mewar, built it in the eighteenth century.                                                                                                        For more info: https://en.wikipedia.org/wiki/Bagore-ki-Haveli"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512236916,
+  "fallbackIntent": false,
+  "events": []
+}

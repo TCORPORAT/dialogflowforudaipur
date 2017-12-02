@@ -1,0 +1,47 @@
+[
+  {
+    "id": "362f4f45-1933-4800-a93a-13f4d60833b4",
+    "data": [
+      {
+        "text": "show",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "places",
+        "alias": "Fam_place",
+        "meta": "@Fam_place",
+        "userDefined": true
+      },
+      {
+        "text": " nearby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2498c3d3-5ff1-4481-adaf-d0e10107bf87",
+    "data": [
+      {
+        "text": "places",
+        "alias": "Fam_place",
+        "meta": "@Fam_place",
+        "userDefined": true
+      },
+      {
+        "text": " to visit in the city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

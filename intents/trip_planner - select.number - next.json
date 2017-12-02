@@ -1,0 +1,33 @@
+{
+  "id": "2fcd5336-55b3-488d-9730-1e957cdb5455",
+  "parentId": "75dcb800-2bbe-4d4b-b70b-0f7dd8ee84b8",
+  "rootParentId": "1fcf1c37-d179-4ff1-bb6b-98ecd6a776da",
+  "name": "trip_planner - select.number - next",
+  "auto": true,
+  "contexts": [
+    "trip_planner-selectnumber-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "trip_planner.trip_planner-selectnumber.trip_planner-selectnumber-next",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Enter the trip date"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1491125022,
+  "fallbackIntent": false,
+  "events": []
+}

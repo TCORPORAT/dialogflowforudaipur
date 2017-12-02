@@ -1,0 +1,28 @@
+{
+  "id": "20ec291b-1243-4132-99db-f6b30212e150",
+  "name": "city of lakes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Udaipur!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1491122740,
+  "fallbackIntent": false,
+  "events": []
+}
